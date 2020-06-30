@@ -73,7 +73,7 @@ class Ball {
 
 //Creating balls to add to the canvas.
 let balls = [];
-while (balls.length < 10) {
+while (balls.length < 20) {
   const size = rand(10, 20);
   let ball = new Ball(
     rand(0 + size, width - size),
