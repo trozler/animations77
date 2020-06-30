@@ -1,0 +1,39 @@
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+a {
+  background: transparent;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+body {
+  background-color: rgb(119, 224, 119);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#container {
+  position: relative;
+  width: 480px;
+  height: 270px;
+  text-align: center;
+}
+canvas {
+  position: absolute;
+  width: 480px;
+  height: 270px;
+  border-radius: 20px;
+}
+
+#canvas {
+  background-color: rgba(95, 247, 65, 0.644);
+  border: outset;
+}
+
+#gameover_canvas {
+  background-color: rgba(70, 102, 204, 0.87);
+  z-index: 2;
+  display: none;
+}
