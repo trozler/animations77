@@ -1,0 +1,9 @@
+body {
+  margin: auto;
+  background-color: rgb(2, 2, 43);
+}
+
+h1 {
+  position: absolute;
+  color: rgba(255, 166, 0, 0.603);
+}
