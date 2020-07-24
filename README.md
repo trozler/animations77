@@ -2,12 +2,16 @@
 
 ### Bouncy balls:
 
-![Bouncy balls](https://media.giphy.com/media/eJXRGQkO76vDX0e6LG/giphy.gif)
+![Bouncy balls](./promo/balls.gif)
 
 ### A poor man's flappy bird:
 
-![A poor man's flappy bird](https://media.giphy.com/media/VGQUJflcPbMAoEAnT5/giphy.gif)
+![A poor man's flappy bird](./promo/brickbirds.gif)
 
-###Space box
+### Space box
 
-![Sapce box](https://media.giphy.com/media/QUMPuZrCn6EOsmfbjD/giphy.gif)
+![Sapce box](./promo/box.gif)
+
+### thousend snakes
+
+![thousend snakes](./promo/thousend.gif)
