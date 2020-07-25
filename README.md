@@ -8,6 +8,9 @@
 
 ![A poor man's flappy bird](./promo/brickbirds.gif)
 
+### euler
+![euler](./promo/euler.gif)
+
 ### Space box
 
 ![Sapce box](./promo/box.gif)
@@ -15,3 +18,4 @@
 ### thousend snakes
 
 ![thousend snakes](./promo/thousend.gif)
+
